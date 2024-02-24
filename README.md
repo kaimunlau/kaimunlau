@@ -1,7 +1,3 @@
-🔍 **currently open to work** 🔍
-
-***
-
 📖 Proficient in `JavaScript` and `Ruby`, I create dynamic web apps and captivating interfaces. Skilled in `RubyOnRails` and `NextJS`, and tools like `TailwindCSS`, I craft seamless user experiences. My experience in Postgres-powered SQL ensures efficient data management.
 
 ***
