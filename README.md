@@ -26,6 +26,10 @@ From: 02 May 2024 - To: 09 May 2024
 Total Time: 25 hrs 32 mins
 
 Other        8 hrs 30 mins   ████████▒░░░░░░░░░░░░░░░░   33.31 %
+Ruby         5 hrs 51 mins   █████▓░░░░░░░░░░░░░░░░░░░   22.91 %
+GDScript3    4 hrs           ████░░░░░░░░░░░░░░░░░░░░░   15.67 %
+JavaScript   3 hrs 45 mins   ███▓░░░░░░░░░░░░░░░░░░░░░   14.70 %
+ERB          3 hrs 9 mins    ███░░░░░░░░░░░░░░░░░░░░░░   12.35 %
 ```
 
 <!--END_SECTION:waka-->
