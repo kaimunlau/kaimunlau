@@ -21,15 +21,15 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 07 May 2024 - To: 14 May 2024
+From: 08 May 2024 - To: 15 May 2024
 
-Total Time: 22 hrs 4 mins
+Total Time: 27 hrs 55 mins
 
-Other        14 hrs 9 mins   ████████████████░░░░░░░░░   64.14 %
-JavaScript   3 hrs 40 mins   ████░░░░░░░░░░░░░░░░░░░░░   16.64 %
-Ruby         2 hrs 50 mins   ███▒░░░░░░░░░░░░░░░░░░░░░   12.84 %
-ERB          1 hr 21 mins    █▓░░░░░░░░░░░░░░░░░░░░░░░   06.19 %
-JSON         2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.16 %
+Other        19 hrs 20 mins  █████████████████▒░░░░░░░   69.26 %
+JavaScript   3 hrs 39 mins   ███▒░░░░░░░░░░░░░░░░░░░░░   13.10 %
+Ruby         3 hrs 13 mins   ███░░░░░░░░░░░░░░░░░░░░░░   11.57 %
+ERB          1 hr 27 mins    █▒░░░░░░░░░░░░░░░░░░░░░░░   05.24 %
+JSON         9 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.54 %
 ```
 
 <!--END_SECTION:waka-->
