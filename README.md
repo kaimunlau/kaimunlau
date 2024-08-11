@@ -21,15 +21,15 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 03 August 2024 - To: 10 August 2024
+From: 04 August 2024 - To: 11 August 2024
 
-Total Time: 15 hrs 20 mins
+Total Time: 18 hrs 7 mins
 
-Ruby             7 hrs 37 mins   ████████████▒░░░░░░░░░░░░   49.64 %
-JavaScript       3 hrs 14 mins   █████▒░░░░░░░░░░░░░░░░░░░   21.10 %
-ERB              2 hrs 52 mins   ████▓░░░░░░░░░░░░░░░░░░░░   18.73 %
-CSS              33 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.69 %
-Shell Script     23 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.59 %
+Ruby             7 hrs 37 mins   ██████████▓░░░░░░░░░░░░░░   42.02 %
+JavaScript       3 hrs 14 mins   ████▒░░░░░░░░░░░░░░░░░░░░   17.86 %
+ERB              2 hrs 52 mins   ████░░░░░░░░░░░░░░░░░░░░░   15.85 %
+C#               2 hrs 46 mins   ████░░░░░░░░░░░░░░░░░░░░░   15.35 %
+CSS              33 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.12 %
 ```
 
 <!--END_SECTION:waka-->
