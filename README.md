@@ -17,19 +17,3 @@
 [![GitHub Streak](https://streak-stats.demolab.com?user=kaimunlau&theme=github-dark&hide_border=true)](https://git.io/streak-stats)
 
 ***
-
-<!--START_SECTION:waka-->
-
-```txt
-From: 19 August 2024 - To: 26 August 2024
-
-Total Time: 6 hrs 27 mins
-
-Ruby                4 hrs 45 mins   ██████████████████▒░░░░░░   73.56 %
-ERB                 1 hr 27 mins    █████▓░░░░░░░░░░░░░░░░░░░   22.67 %
-YAML                6 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.74 %
-MJML                3 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.81 %
-Text                2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.54 %
-```
-
-<!--END_SECTION:waka-->
