@@ -1,4 +1,4 @@
-📖 Proficient in `JavaScript` and `Ruby`, I create dynamic web apps and captivating interfaces. Skilled in `RubyOnRails` and `NextJS`, and tools like `TailwindCSS`, I craft seamless user experiences. My experience in Postgres-powered SQL ensures efficient data management.
+📖 I build robust, user-friendly web applications using `Ruby on Rails` with ActiveRecord and Postgres on the backend, usually paired with `SvelteKit` on the frontend. My toolkit also includes `ElasticSearch` for powerful search functionality and `NodeJS` when the project calls for it. As much as I can, I self-host my applications.
 
 ***
 
@@ -6,7 +6,7 @@
 
 ***
 
-👉 <a href="https://www.davidlau.dev/" target="_blank">View my portfolio</a> 👈
+👉 <a href="https://davidlau.dev/" target="_blank">View my portfolio</a> 👈
 
 ***
 
